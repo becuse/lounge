@@ -37,4 +37,23 @@ border-top-color: yellow;
   text-align: center;
   background-image: url(images/cocktail.gif);
   background-repeat: repeat-x;
+
+
 }
+div h2
+{
+color:orange;
+
+}
+#elixirs h3{
+color: olive;
+
+}
+.cd
+{
+  font-style: italic;
+}
+.artist{
+  font-weight: bold;
+}
+
